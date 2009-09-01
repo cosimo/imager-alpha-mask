@@ -1,0 +1,4 @@
+A sample script to generate alpha channel
+transparent images from grey mask files.
+
+Uses Perl Imager module.
